@@ -1,4 +1,4 @@
-# IACP-POC-AWSAzure
+# IACP-POC-Azure
 
 This installs IaCP for a POC on Azure, currently on a single server.
 
